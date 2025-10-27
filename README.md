@@ -47,6 +47,6 @@
 ### 🔬📜📚 Publications
 
 ### Peer‑Reviewed Articles
-https://orcid.org/my-orcid?orcid=0000-0003-0045-4398)
+https://orcid.org/my-orcid?orcid=0000-0003-0045-4398
 ```
 
