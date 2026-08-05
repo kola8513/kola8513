@@ -9,7 +9,7 @@ Turning clinical data into reliable, reproducible insights via R Shiny Applicati
 - ✉️ yadwinder.kaur@uol.de  
 - 🔗 LinkedIn: https://www.linkedin.com/in/YadwinderKaur  
 - 🐙 GitHub: https://github.com/yadwink  
-- 📍 Oldenburg, Germany ·
+- 📍 Oldenburg, Germany
 
 
 ### 🛠️ Core tech
